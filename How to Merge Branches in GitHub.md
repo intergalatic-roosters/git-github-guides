@@ -1,7 +1,7 @@
 Merging branches in Git allows you to integrate changes from one branch into another. This is particularly useful when you want to combine the work from different branches into a single branch, typically the main branch (e.g., `main` or `master`). Here's how you can merge branches using Git and GitHub: 
 ## Merge Locally (Using Git)
 
-1. **Checkout the Branch You Want to Merge Into:** ```git checkout main
+1. **Checkout the Branch You Want to Merge Into:** ```git checkout main```
    
 2. **Merge the Target Branch into the Main Branch:** ```git merge <branch_name>```
 	   Replace `<branch_name>` with the name of the branch you want to merge into the main branch.
